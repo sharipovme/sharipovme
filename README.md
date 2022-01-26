@@ -6,9 +6,6 @@
 - 🔭 I’m currently working on react.js
 - 🌱 I’m currently learning frontend development -->
 
-I'm Otabek,
-A Frontend developer 🎯 from Uzbekistan 🇺🇿
-
 
 **Languages:**  
 
