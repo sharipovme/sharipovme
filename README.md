@@ -21,3 +21,7 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code>
+
+![Otabek's github stats](https://github-readme-stats.vercel.app/api?username=sharipovme-eon&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharipovme-eon&theme=tokyonight&layout=compact)
+****
