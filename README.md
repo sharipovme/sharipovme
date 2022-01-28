@@ -22,4 +22,6 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code>
 
+[![Otabek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharipovme)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+
 ![](https://komarev.com/ghpvc/?username=sharipovme)
