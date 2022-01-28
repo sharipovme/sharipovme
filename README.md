@@ -1,4 +1,4 @@
-### Hi there, I'm Otabek 🧑‍💻�,
+### Hi there, I'm Otabek 🧑‍💻,
 A Frontend developer 🎯 from Uzbekistan 🇺🇿
 
 
