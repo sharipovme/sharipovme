@@ -1,6 +1,17 @@
-### Hi there, I'm Otabek 🧑‍💻,
-A Frontend developer 🎯 from Uzbekistan 🇺🇿
+![Banner](Banner.png)
+<h1 align="center">Hi 👋, I'm Otabek</h1>
+<h3>I am a frontend developer who loves to design as well as develop the sites that are unique in design and probabily have the greatest UX.</h3>
 
+![](https://komarev.com/ghpvc/?username=sharipovme)
+
+- 🔭 I’m currently working on **Frontend Development.**
+
+- 🌱 I’m currently learning **more about frontend development.**
+
+- 💬 Ask me about **Javascript, React and frontend Stuffs.**
+
+- 📫 How to reach me 
+[Telegram](https://t.me/sharipovme)
 
 **Languages:**  
 
@@ -19,4 +30,4 @@ A Frontend developer 🎯 from Uzbekistan 🇺🇿
 
 [![Otabek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharipovme)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=sharipovme)
+
