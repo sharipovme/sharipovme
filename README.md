@@ -1,5 +1,5 @@
-![Banner](Banner.png)
-<h1 align="center">Hi 👋, I'm Otabek</h1>
+<!-- ![Banner](Banner.png) -->
+<h1>Hi 👋, I'm Otabek</h1>
 <h3>I am a frontend developer who loves to design as well as develop the sites that are unique in design and probabily have the greatest UX.</h3>
 
 ![](https://komarev.com/ghpvc/?username=sharipovme)
