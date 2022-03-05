@@ -1,4 +1,3 @@
-<!-- ![Banner](Banner.png) -->
 <h1>Hi 👋</h1>
 <h3>I am a frontend developer who loves to design as well as develop the sites that are unique in design and probabily have the greatest UX.</h3>
 
@@ -27,7 +26,4 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code>
-
-<!-- [![Otabek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharipovme)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
- -->
 
