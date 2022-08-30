@@ -1,5 +1,5 @@
 <h1>Hi 👋</h1>
-<h3>I am a frontend developer who loves to design as well as develop the web applications that are unique in design and probabily have the greatest UX.</h3>
+<h3>I am a frontend developer who specialize in building scalable and mountable web applications. I am highly motivated and have a passion for new challenges.</h3>
 
 ![](https://komarev.com/ghpvc/?username=sharipovme)
 
