@@ -4,13 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=sharipovme)
 
 - 🔭 I’m currently working on **Frontend Development.**
-
 - 🌱 I’m currently learning **more about frontend development.**
-
 - 💬 Ask me about **Javascript, React and frontend Stuffs.**
-
-- 📫 How to reach me 
-[Telegram](https://t.me/sharipovme)
+- 📫 How to reach me [Telegram](https://t.me/sharipovme)
 
 <h3>Languages and tools: </h3> 
 
