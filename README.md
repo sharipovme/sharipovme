@@ -12,7 +12,7 @@
 
 <code><img height="35" src="./html.svg"></code> 
 <code><img height="35" src="./css.svg"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="28" src="./javascript"></code> 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
 <code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="29" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4"></code> 
