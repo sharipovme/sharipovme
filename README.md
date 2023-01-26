@@ -10,8 +10,8 @@
 
 <h3>Languages and tools: </h3> 
 
-<code><img height="35" src="https://www.sharipovme.uz/static/media/html.027cd4a70c68d6ed62d2b75095df559c.svg"></code> 
-<code><img height="35" src="https://www.sharipovme.uz/static/media/css.5b36ba67a6796fe671675b29c8f89811.svg"></code>
+<code><img height="35" src="./html.svg"></code> 
+<code><img height="35" src="./css.svg"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
 <code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
