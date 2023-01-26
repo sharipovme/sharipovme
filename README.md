@@ -10,13 +10,15 @@
 
 <h3>Languages and tools: </h3> 
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://www.sharipovme.uz/static/media/html.027cd4a70c68d6ed62d2b75095df559c.svg"></code> 
+<code><img height="35" src="https://www.sharipovme.uz/static/media/css.5b36ba67a6796fe671675b29c8f89811.svg"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
 <code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="29" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4"></code> 
 <code><img height="29" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code> 
+<code><img height="29" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"></code> 
+<code><img height="29" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"></code> 
 <code><img height="29" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> 
 <code><img height="27" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4"></code> 
 <code><img height="27" src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"></code> 
