@@ -29,10 +29,10 @@
 <code><img height="31" src="./sass.svg"></code>
 <code><img height="28" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4"></code> 
 <code><img height="31" src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4"></code> 
+<br/><br/>
 <code><img height="28" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png"></code>
 <code><img height="28" src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=2,format=auto/https%3A%2F%2F1143667985-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6Wm2hynS5H9Gj7j%252Favatar.png%3Fgeneration%3D1523462254548780%26alt%3Dmedia"></code> 
 <code><img height="27" src="./nodejs.svg"></code> 
-<br/><br/>
 <code><img height="27" src="./vite.svg"></code> 
 <code><img height="27" src="./eslint.svg"></code> 
 <code><img height="27" src="./prettier.svg"></code> 
