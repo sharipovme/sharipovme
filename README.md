@@ -1,4 +1,4 @@
-<h1>Hi 👋</h1>
+<h1>Hi, I'm BECK 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=sharipovme)
 
